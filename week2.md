@@ -24,6 +24,13 @@ Lab
 > a”red-green”    
 > b”yellow-blue”    
 
+### bit
+
+8bit=2의8제곱=256 (0~255)    
+16bit=2의 16제곱=65536    
+32bit=2의32제곱= 1677216    
+
+
 ### Data type
 
 + Vector (0,0,0)
