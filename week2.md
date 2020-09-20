@@ -2,7 +2,12 @@
 
 ### Alpha
 
+To store matte information, the concept of an alpha channel was introduced by Alvy Ray Smith in the late 1970s and fully developed in a 1984 paper by Thomas Porter and Tom Duff.
+
 In computer graphics, alpha compositing is the process of combining one image with a background to create the appearance of partial or full transparency.
+Alpha blending is also used in 2D computer graphics to put rasterized foreground elements over a background.
+
+In a 2D picture element (pixel), which stores a color for each pixel, additional data is stored in the alpha channel with a value ranging from 0 to 1
 
 ![https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Alpha_compositing.svg/1284px-Alpha_compositing.svg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Alpha_compositing.svg/1284px-Alpha_compositing.svg.png)
 
