@@ -7,12 +7,13 @@ In computer graphics, alpha compositing is the process of combining one image wi
 ### Color Model
 
 HSL
-1. Hue 색상
-2. Saturation 채도
-3. Value 명도    
-  RGB-가산혼합      
-  CMYK-감산혼합
-4. Lab-lightness, a”red-green”, b”yellow-blue”
+>1. Hue 색상
+>2. Saturation 채도
+>3. Value 명도
+
+RGB-가산혼합          
+CMYK-감산혼합   
+Lab-lightness, a”red-green”, b”yellow-blue”
 
 ### Data type
 
