@@ -17,7 +17,10 @@ RGB
 CMYK
 > 감산혼합 
 
-Lab-lightness, a”red-green”, b”yellow-blue”
+Lab
+> lightness
+> a”red-green”
+> b”yellow-blue”
 
 ### Data type
 
