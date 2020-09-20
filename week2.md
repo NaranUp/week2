@@ -16,8 +16,8 @@ HSL
 
 ### Data type
 
-+Vector (0,0,0)
-+Integer (0) 정수값
++ Vector (0,0,0)
++ Integer (0) 정수값
 + Float (0.123)
 + Boolean (1,0) =(on/off)
 + String 모든값 입력가능 (숫자가 아니라 글자로 인식)
