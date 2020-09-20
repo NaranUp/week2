@@ -25,10 +25,11 @@ Lab
 > b”yellow-blue”    
 
 ### bit
+The bit is a basic unit of information in computing and digital communications. The name is a portmanteau of binary digit.
 
-8bit=2의8제곱=256 (0~255)    
-16bit=2의 16제곱=65536    
-32bit=2의32제곱= 1677216    
+>8bit=2의8제곱=256 (0~255)    
+>16bit=2의 16제곱=65536    
+>32bit=2의32제곱= 1677216    
 
 
 ### Data type
