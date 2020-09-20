@@ -4,7 +4,6 @@
 
 In computer graphics, alpha compositing is the process of combining one image with a background to create the appearance of partial or full transparency.
 
-![https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Alpha_compositing.svg/1284px-Alpha_compositing.svg.png]
 
 
 ### Color Model
