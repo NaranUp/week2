@@ -1,6 +1,6 @@
 ## Alpha and Digital Color
 
-### alpha
+### Alpha
 
 In computer graphics, alpha compositing is the process of combining one image with a background to create the appearance of partial or full transparency.
 
