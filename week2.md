@@ -30,7 +30,9 @@ Lab
 > b”yellow-blue”    
 
 ### bit
-The bit is a basic unit of information in computing and digital communications. The name is a portmanteau of binary digit.
+The bit is a basic unit of information in computing and digital communications. The name is a portmanteau of binary digit.    
+When referring to a pixel, the concept can be defined as bits per pixel.
+When referring to a color component, the concept can be defined as bits per component, bits per channel, bits per color (all three abbreviated bpc), and also bits per pixel component, bits per color channel or bits per sample (bps)
 
 >8bit=2의8제곱=256 (0~255)    
 >16bit=2의 16제곱=65536    
