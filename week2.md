@@ -24,7 +24,7 @@ RGB
 CMYK
 > 감산혼합 
 
-Lab
+CIE Lab
 > lightness     
 > a”red-green”    
 > b”yellow-blue”    
