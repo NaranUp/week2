@@ -39,6 +39,8 @@ When referring to a color component, the concept can be defined as bits per comp
 >8bit=2의 8제곱=256(0~255)colors     
 >16bit=2의 16제곱=65536 colors    
 >32bit=2의 32제곱= 1677216 colors    
+
+
 ![https://upload.wikimedia.org/wikipedia/commons/5/56/2_bit.png)](https://upload.wikimedia.org/wikipedia/commons/5/56/2_bit.png)
 ![https://upload.wikimedia.org/wikipedia/commons/9/9f/24_bit.png)](https://upload.wikimedia.org/wikipedia/commons/9/9f/24_bit.png)
 
